@@ -30,15 +30,3 @@ git checkout 2025-09-18___Fibonacci
 ```
 
 > *"🎨 Этот README создан с любовью к порядку и красоте. Обновляется по мере добавления новых заданий."*
-
-<div align="center">
-  <img src="https://i.imgur.com/UnyVcbN.gif" width="400" alt="confetti popper" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/3hX9QjD.gif" width="400" alt="floating balloons" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/JT9X9Jk.gif" width="300" alt="sparkles" />
-</div>
